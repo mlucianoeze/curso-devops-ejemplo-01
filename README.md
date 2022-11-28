@@ -9,3 +9,5 @@ Este es un archivo de README para un proyecto de ejemplo.
 ## Acerca del proyecto
 
 Este proyecto tiene como objetivo mostrar el uso de servicios en la nube como GitHub.
+Esta explicación que se agrega a continuación, es un ejemplo para entender los merges y cómo funcionan.
+Vamos a resolver un conflicto de merge según lo que trabajemos en esta rama.
