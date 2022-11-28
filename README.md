@@ -3,9 +3,12 @@
 Este es un archivo de README para un proyecto de ejemplo.
 
 * Item 1
-* Item 2
-* Item 3
 
-## Acerca del proyecto
+Este proyecto muestra el uso de servicios en la nube. Un ejemplo de estos servicios, puede ser GitHub o GitLab.
 
-Este proyecto tiene como objetivo mostrar el uso de servicios en la nube como GitHub.
+### Otros ejemplos
+
+* BitBucket
+* Microsoft Azure
+
+etc.
