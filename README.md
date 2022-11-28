@@ -3,6 +3,7 @@
 Este es un archivo de README para un proyecto de ejemplo.
 
 * Item 1
+* Item X
 
 ## Objetivo
 
