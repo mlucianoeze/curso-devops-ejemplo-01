@@ -6,10 +6,6 @@ Este es un archivo de README para un proyecto de ejemplo.
 * Item 2
 * Item 3
 
-----
+## Acerca del proyecto
 
-# Sección 1
-
-## Subtítulo 1
-
-etc.
+Este proyecto tiene como objetivo mostrar el uso de servicios en la nube como GitHub.
